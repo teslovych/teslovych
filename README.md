@@ -54,7 +54,7 @@ hobbies: ["Hiking"]
 
 <br>
 
-Inspired by [tkachuk-ai](https://github.com/tkachuk-ai/tkachuk-ai/tree/main)
+Inspired by <span color="gray">[tkachuk-ai](https://github.com/tkachuk-ai/tkachuk-ai/tree/main)</span>
 
 
 
