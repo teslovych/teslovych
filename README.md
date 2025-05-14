@@ -34,7 +34,7 @@ hobbies: ["Hiking"]
 <p>
 	<img width="50px" alt="CSS" title="CSS" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/tech/CSS.gif">
 	&#8287;&#8287;
-	<img width="50px" alt="HTML" title="HTML" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/tech/HTML.gif">	
+	<img width="50px" alt="HTML" title="HTML" src="https://github.com/teslovych/teslovych/blob/main/assets/png/html-5-svgrepo-com.png">	
 	<img width="50px" alt="JavaScript" title="JavaScript" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/tech/JavaScript.gif">
 	&#8287;&#8287;&#8287;&#8287;
 	<img width="80px" alt="Git" title="Git" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/tech/Git.gif">
