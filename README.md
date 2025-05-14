@@ -13,7 +13,7 @@
 	  <img width="29px" alt="LinkedIn" title="LinkedIn" src="https://github.com/teslovych/teslovych/blob/main/assets/png/LinkedIn.png"/></a>
 </p>
 
-###About Me
+### About Me
 
 ```yaml
 name: Ivan Teslovych
@@ -41,13 +41,9 @@ hobbies: ["Hiking"]
 </p>
 
 
+<br>
 
-
-
-
-
-
-
+Inspired by [tkachuk-ai](https://github.com/tkachuk-ai/tkachuk-ai/tree/main)
 
 
 
