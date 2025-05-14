@@ -9,7 +9,7 @@
 <!-- Personal social media icons with links (LinkedIn, Telegram, Discord, Mail) as well as YouTube channel -->
 <p align="center">
 	<!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/otkachukSE">
+  <a href="https://www.linkedin.com/in/ivan-teslovych-673b60b9">
 	  <img width="29px" alt="LinkedIn" title="LinkedIn" src="https://github.com/teslovych/teslovych/blob/main/assets/png/LinkedIn.png"/></a>
 </p>
 
@@ -30,7 +30,7 @@ hobbies: ["Hiking"]
 <br>
 
 ##
-### <img width="32px" alt="Slash" title="Slash" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/decoration/Slash.gif"> &#8287; Tech Stack
+### <img width="32px" alt="Slash" title="Slash" src="https://github.com/teslovych/teslovych/blob/main/assets/gif/Slash.gif"> &#8287; Tech Stack
 <p>
 	<img width="50px" alt="CSS" title="CSS" src="https://github.com/teslovych/teslovych/blob/main/assets/png/css-svgrepo-com.png">
 	&#8287;&#8287;
