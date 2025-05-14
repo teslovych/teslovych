@@ -32,12 +32,17 @@ hobbies: ["Hiking"]
 ##
 ### <img width="32px" alt="Slash" title="Slash" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/decoration/Slash.gif"> &#8287; Tech Stack
 <p>
-	<img width="50px" alt="CSS" title="CSS" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/tech/CSS.gif">
+	<img width="50px" alt="CSS" title="CSS" src="https://github.com/teslovych/teslovych/blob/main/assets/png/css-svgrepo-com.png">
 	&#8287;&#8287;
-	<img width="50px" alt="HTML" title="HTML" src="https://github.com/teslovych/teslovych/blob/main/assets/png/html-5-svgrepo-com.png">	
-	<img width="50px" alt="JavaScript" title="JavaScript" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/tech/JavaScript.gif">
+	<img width="50px" alt="HTML" title="HTML" src="https://github.com/teslovych/teslovych/blob/main/assets/png/html-5-svgrepo-com.png">
+	&#8287;&#8287;&#8287;&#8287;	
+	<img width="50px" alt="JavaScript" title="JavaScript" src="https://github.com/teslovych/teslovych/blob/main/assets/png/js-official-svgrepo-com.png">
 	&#8287;&#8287;&#8287;&#8287;
-	<img width="80px" alt="Git" title="Git" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/tech/Git.gif">
+	<img width="50px" alt="JavaScript" title="TypeScript" src="https://github.com/teslovych/teslovych/blob/main/assets/png/typescript-official-svgrepo-com.png">
+	&#8287;&#8287;&#8287;&#8287;
+	<img width="50px" alt="JavaScript" title="Angular" src="https://github.com/teslovych/teslovych/blob/main/assets/png/angular-svgrepo-com.png">
+	&#8287;&#8287;&#8287;&#8287;
+	<img width="80px" alt="Git" title="Git" src="https://github.com/teslovych/teslovych/blob/main/assets/png/git-svgrepo-com.png">
 </p>
 
 
