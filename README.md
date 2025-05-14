@@ -1,6 +1,6 @@
 <!-- Setting up the image of the retro programmer at the top -->
 <div align="center">
-	<img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/city/Retro-programmer.gif" width="910">
+	<img src="https://github.com/teslovych/teslovych/blob/main/assets/gif/Retro-programmer.gif" width="910">
 </div>
 
 <!-- Greeting ad hand gif set up under the retro programmer -->
@@ -10,7 +10,7 @@
 <p align="center">
 	<!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/otkachukSE">
-	  <img width="29px" alt="LinkedIn" title="LinkedIn" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/png/connection/LinkedIn.png"/></a>
+	  <img width="29px" alt="LinkedIn" title="LinkedIn" src="https://github.com/teslovych/teslovych/blob/main/assets/png/LinkedIn.png"/></a>
 </p>
 
 ###About Me
