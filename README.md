@@ -42,6 +42,12 @@ hobbies: ["Hiking"]
 	&#8287;&#8287;&#8287;&#8287;
 	<img width="50px" alt="JavaScript" title="Angular" src="https://github.com/teslovych/teslovych/blob/main/assets/png/angular-svgrepo-com.png">
 	&#8287;&#8287;&#8287;&#8287;
+	<img width="50px" alt="NodeJs" title="Angular" src="https://github.com/teslovych/teslovych/blob/main/assets/png/nodejs-icon-svgrepo-com.png">
+	&#8287;&#8287;&#8287;&#8287;
+	<img width="50px" alt="NestJs" title="Angular" src="https://github.com/teslovych/teslovych/blob/main/assets/png/nestjs-svgrepo-com.png">
+	&#8287;&#8287;&#8287;&#8287;
+	<img width="50px" alt="MongoDB" title="Angular" src="https://github.com/teslovych/teslovych/blob/main/assets/png/mongodb-svgrepo-com.png">
+	&#8287;&#8287;&#8287;&#8287;
 	<img width="50px" alt="Git" title="Git" src="https://github.com/teslovych/teslovych/blob/main/assets/png/git-svgrepo-com.png">
 </p>
 
