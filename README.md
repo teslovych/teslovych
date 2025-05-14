@@ -13,11 +13,6 @@
 	  <img width="29px" alt="LinkedIn" title="LinkedIn" src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/png/connection/LinkedIn.png"/></a>
 </p>
 
-<!-- A welcoming gif for a user -->
-<div align="center">
-	<img src="https://github.com/tkachuk-ai/tkachuk-ai/raw/main/assets/gif/welcome/WelcomeTraveller.gif">
-</div>
-
 ###About Me
 
 ```yaml
