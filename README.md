@@ -17,14 +17,26 @@
 
 ```yaml
 name: Ivan Teslovych
-located_in: [Ukraine, Slovakia]
-from: [Ukraine]
-education: ["Master degree in Information Technologies"]
-language: ["English", "Ukrainian"], ["Slovakian", "Hungarian"]
-website: ["Coming-Soon"]
-job: ["Senior FrontEnd Developer"]
-currently_learning: ["NodeJs", "MongoDB", "NestJs"]
-hobbies: ["Hiking"]
+located_in:
+  - Ukraine
+  - Slovakia
+from:
+  - Ukraine
+education:
+  - Master degree in Information Technologies
+languages:
+  - English
+  - Ukrainian
+  - Slovakian
+  - Hungarian
+website: Coming-Soon
+job: Senior FrontEnd Developer
+currently_learning:
+  - NodeJs
+  - MongoDB
+  - NestJs
+hobbies:
+  - Hiking
 ```
 
 <br>
