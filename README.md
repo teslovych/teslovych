@@ -42,7 +42,7 @@ hobbies: ["Hiking"]
 	&#8287;&#8287;&#8287;&#8287;
 	<img width="50px" alt="JavaScript" title="Angular" src="https://github.com/teslovych/teslovych/blob/main/assets/png/angular-svgrepo-com.png">
 	&#8287;&#8287;&#8287;&#8287;
-	<img width="80px" alt="Git" title="Git" src="https://github.com/teslovych/teslovych/blob/main/assets/png/git-svgrepo-com.png">
+	<img width="50px" alt="Git" title="Git" src="https://github.com/teslovych/teslovych/blob/main/assets/png/git-svgrepo-com.png">
 </p>
 
 
